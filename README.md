@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Scaled Agile DevOps Maturity Framework
 
-You can use the [editor on GitHub](https://github.com/ScaledAgileDevOps/ScaledAgileDevOps/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+>Enterprise transformation without the risk of culture change!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We know that becoming a DevOps organization is hard. Many people will tell you there will be fundamental changes
+required in how everything in your organization works. At Scaled Agile DevOps, we believe there is another way. Using
+our exclusive Maturity Framework, you can become a DevOps organization in less than 6 months.
 
-### Markdown
+Benefits of the Framework:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- No need for training teams beyond a few additional daily ceremonies.
+- A clear, simple, 42 step process for delivering changes that customers cn be assured used DevOps processes.
+- Fully compatible with sending requirements to external development teams.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScaledAgileDevOps/ScaledAgileDevOps/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Keep watch here for more information. Coming soon!
