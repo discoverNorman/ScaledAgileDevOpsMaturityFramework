@@ -17,4 +17,4 @@ Benefits of the Framework:
 
 Keep watch here for more information on how to become a Certified SAD MF Practitioner.
 
-### Coming soon!
+## Coming soon
