@@ -15,6 +15,6 @@ Benefits of the Framework:
 - Fully compatible with sending requirements to external development teams.
 - Easy to plan 1, 2, or even 3 years worth of detailed deliveries.
 
-Keep watch here for more information on how to become a Certified SADMF Practitioner. 
+Keep watch here for more information on how to become a Certified SAD MF Practitioner.
 
 ### Coming soon!
