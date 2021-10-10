@@ -21,10 +21,9 @@ Keep watch here for more information on how to become a Certified SADMF Practiti
 
 The most important part of any transformation is measuring the productivity increase. We use the follwing metrics:
 
-- Tasks delivered per developer: For each developer, the number of tasks they complete during an interation. Developer
+- **Tasks delivered per developer**: For each developer, the number of tasks they complete during an interation. Developer
   should be focusing on coding. By tracking the number of features each completes, more volume will be produced in each
   iteration. Volume is imporatnt. Let's turn it up to 11!
-- Test coverage: The percentage of code run by test code. We need test code for Scaled Agile DevOps to work! 
-- SADMF maturity score: The precise execution of the 42 steps to delivery is critical to the success of SADMF.
+- **SADMF maturity score**: The precise execution of the 42 steps to delivery is critical to the success of SADMF.
 
 
