@@ -11,7 +11,7 @@ our exclusive Maturity Framework, you can become a DevOps organization in less t
 ## Benefits of the Framework:
 
 - No need for investing in training teams beyond a few additional daily ceremonies.
-- A clear, simple, 42 step process that customers can be assured used DevOps.
+- A clear, simple, [42 step release process](./release_process.md) that customers can be assured used DevOps.
 - Fully compatible with sending requirements to external development teams.
 - Easy to plan 1, 2, or even 3 years worth of detailed deliveries.
 
