@@ -1,4 +1,6 @@
 # Set Sail with the SAD Delivery Lifecycle!
+## The Science is Settled
+Leveraging Conway's Law to strictly control communication, we empower Human Resources via the Signal Corp to define and control communication plans, pathways, and protocols.  Strict compliance is required, and to democratize this control the Signal Corp and the Human Resources Team will own the agenda iteam in he **MonthlyTribunal**.  Controlling communication controls the system.
 
  | Name                           | Description                                                                                                                                                                                                                                                                               |
  |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
