@@ -22,7 +22,7 @@ to be certified SADMF.
 
 Keep watching here for more information on how to become a Certified SADMF Practitioner!
 
-## SADMF Release process
+## SADMF Release Convoy
 
 At Scaled Agile DevOps, we believe keeping track of so many moving parts is just too much cognitive load. We need to
 "work in small batches." We've
