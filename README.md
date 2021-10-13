@@ -11,7 +11,7 @@ our exclusive Maturity Framework, you can become a DevOps organization in less t
 ## Benefits of the Framework:
 
 - No need for investing in training teams beyond a few additional daily ceremonies.
-- A clear, simple, [42 step release process](#sadmf-release-process) that customers can be assured used DevOps.
+- A clear, simple, manageable [release process](#sadmf-release-process) that customers can be assured used DevOps.
 - Fully compatible with sending requirements to external development teams.
 - Easy to plan 1, 2, or even 3 years worth of detailed deliveries.
 
@@ -24,7 +24,8 @@ Keep watching here for more information on how to become a Certified SADMF Pract
 
 ## SADMF Release process
 
-At Scaled Agile DevOps, we believe keeping track of so many moving parts is just too much cognitive load. We've
+At Scaled Agile DevOps, we believe keeping track of so many moving parts is just too much cognitive load. We need to
+"work in small batches." We've
 introduced the Release Convoy to simplify things. Why try to track dozens or hundreds of releases per week if we can
 simplify it to one large Release Convoy?
 
