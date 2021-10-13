@@ -32,14 +32,9 @@ simplify it to one large Release Convoy?
 Why convoys? Other frameworks have tried to coordinate things with more limited transportation metaphors. However, they were limited to a single direction.
 With Release Convoys we have more options. We can turn left or right or even make a U-turn.
 
-More details [here](./release_process.md)
+[More details here!](./release_process.md)
 
 ## SADMF Metrics
 
-The most important part of any transformation is measuring the productivity increase. We use the follwing metrics:
+The most important part of any transformation is measuring the productivity increase. [Explore the metrics we use!](./metrics.md)
 
-- **Tasks delivered per developer**: For each developer, the number of tasks they complete during an interation. Developer
-  should be focusing on coding. By tracking the number of features each completes, more volume will be produced in each
-  iteration. Volume is important. Let's turn it up to 11!
-- **SADMF maturity score**: The precise execution of the 42 steps to delivery is critical to the success of SADMF.
-  Without "excellent" maturity scores, your customers will have no confidence you used approved SADMF processes to deliver!
