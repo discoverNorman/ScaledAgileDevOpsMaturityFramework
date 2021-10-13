@@ -1,4 +1,4 @@
-# Release the Kraken!
+# Set Sail to Eventual Delivery!
 
  | Name                       | Description                                                                                                                                                                                                                             |
  |----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -8,5 +8,4 @@
  | Unit Testing               | The Feature Captain assigns the complete feature to Unit Testing Team for 100% test coverage                                                                                                                                            |
  | System Integration Testing | Assign complete feature to SIT Team for 100% test coverage. The team writing unit tests is too close to the work and those tests need to be vetting by the SIT team. If two teams validating a change are good, three teams are better. |
  | Release Convoy             | The convoy is coordinate transportation of the features that were planned. The Commodore is responsible for keeping the convoy together.                                                                                                |
- | Tribunal                   | Meeting to identify and remove the person who created each defect. This "builds quality in" by removing things that cause poor quality.                                                                                                 |
-
+ | Tribunal                   | We must "build quality in" by removing things that cause poor quality. In this monthly ceremony we identify and remove the person who created each defect.                                                                              |
