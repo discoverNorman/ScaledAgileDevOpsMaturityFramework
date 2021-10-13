@@ -24,6 +24,10 @@ Keep watching here for more information on how to become a Certified SADMF Pract
 
 ## SADMF Release process
 
+At Scaled Agile DevOps, we believe keeping track of so many moving parts is just too much cognitive load. We've
+introduced the Release Convoy to simplify things. Why try to track dozens or hundreds of releases per week if we can
+simplify it to one large Release Convoy?
+
 More details [here](./release_process.md)
 
 ## SADMF Metrics
