@@ -29,6 +29,9 @@ At Scaled Agile DevOps, we believe keeping track of so many moving parts is just
 introduced the Release Convoy to simplify things. Why try to track dozens or hundreds of releases per week if we can
 simplify it to one large Release Convoy?
 
+Why convoys? Other frameworks have tried to coordinate things with more limited transportation metaphors. However, they were limited to a single direction.
+With Release Convoys we have more options. We can turn left or right or even make a U-turn.
+
 More details [here](./release_process.md)
 
 ## SADMF Metrics
