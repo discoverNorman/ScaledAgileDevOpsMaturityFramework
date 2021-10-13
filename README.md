@@ -32,11 +32,11 @@ simplify it to one large Release Convoy?
 Why convoys? Other frameworks have tried to coordinate things with more limited transportation metaphors. However, they were limited to a single direction.
 With Release Convoys we have more options. We can turn left or right or even make a U-turn.
 
-**[More details here!]**(./release_process.md)
+## [More details here!](./release_process.md)
 
 ## SADMF Metrics
 
 The most important part of any transformation is measuring the productivity increase. 
 
-**[Explore the metrics we use!]**(./metrics.md)
+## [Explore the metrics we use!](./metrics.md)
 
