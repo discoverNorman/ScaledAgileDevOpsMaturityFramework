@@ -10,8 +10,9 @@
   1. **Post Standup Standup**: We understand that only the most important status updates are given in Standup and that
  some defects are lower priority than some features. To address this, we use the Post Standup Standup ceremony. Here
  everyone on the Convoy participates to provide status updates to the Commodore on the lower priority work that is not
- being worked on. To ensure no information is lost through insufficient documentation, each Feature Captian will also
- submit a daily report using the SAD Update form and email it to all participants for review.
+ being worked on.
+  1. **Post Standup Standup Review**: To ensure no information is lost through insufficient documentation, each Feature Captian will also
+    submit a daily report using the SAD Update form and email it to the Commodore who will consolidate it and file it.
   1. **Testing**: The to keep the coders productive, we need them to focus only on coding. For unit testing, the Feature Captain assigns the complete feature to Unit Testing Team for 100% test coverage.
   1. **System Integration Testing**: If two teams validating a change are good, three teams are better! This SIT team tests all of the new features of the Convoy together.
   1. **Release Convoy**: The convoy coordinates transportation of the features that were planned. The Commodore is responsible for keeping the convoy together.
